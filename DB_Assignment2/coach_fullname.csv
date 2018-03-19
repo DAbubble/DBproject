@@ -1,0 +1,194 @@
+coach_id,coach_name,coaching_player_id
+1,Ivan-Ljubicic,f324
+2,Daniel-Vallverdu,d875
+3,Ricardo-Acioly,sg64
+4,Yves-Allegro ,
+5,Leonardo-Alonso,
+6,Jose-Altur,g676
+7," William ""Pato""-Alvarez ",
+8,Braen-Aneiros,se73
+9,Paul-Annacone,w367
+10,Roberto-Antonini,
+11,Jan-Apell,
+12,Carsten-Arriens,
+13,Thierry-Ascione,t786
+14,Jean-Francois-Bachelot,
+15,Aubrey-Barrett,
+16,Jeremy-Bates,
+17,Boris-Becker,
+18,Tarik-Benhabiles ,
+19,Galo-Blanco,
+20,Fabian-Blengino,e698
+21,Nick-Bollettieri,
+22,Boris-Borgula,kc04
+23,Dante-Bottini,n552
+24,Craig-Boynton,q927
+25,Oscar-Burrieza,
+26,Darren-Cahill,
+27,Leonardo-Caperchi,
+28,Nick-Carr,
+29,Alberto-Castellani,
+30,Louis-Cayer,
+31,Michael-Chang,n552
+32,Jose-Checa Calvo,kb54
+33,Ivan-Cinkus,c977
+34,"Francisco ""Pato""-Clavet",
+35,"José Manuel ""Pepo""-Clavet",l397
+36,Jeff-Coetzee,c834
+37,Albert-Costa,
+38,Hakan-Dahlbo,v564
+39,Hugo Streit-Daibert,s938
+40,Scott-Davidoff,b757
+41,James-Davidson,
+42,Franco-Davin,f510
+43,Robert-Davis,
+44,John-Laffnie-De Jager,
+45,Jan-De Witt,
+46,Jamie-Delgado,mc10
+47,Ramon-Delgado,
+48,Yannis-Demeroutis,d632
+49,Diego-Dinomo,
+50,Mladen-Dodig,d646
+51,Joshua-Eagle,
+52,Juan Manuel-Esparcia,
+53,Cesar-Fabregas,cd85
+54,Philip-Farmer,
+55,John B.-Farrington,
+56,Stephan-Fehske,
+57,Frederic-Fontang,
+58,Jean-Luc-Fontanot,
+59,Othmane-Garma,h788
+60,Neville-Godwin,ch27
+61,Carlos-Gomez Ferre,l480
+62,Pablo-Gonzalez,
+63,Fabio-Gorietti,f586
+64,Marcos-Gorriz,
+65,Brian-Gottfried,
+66,Walter-Grinovero,
+67,Sven-Groeneveld,
+68,Christian-Groh,h355
+69,Sebastien-Grosjean,ke17
+70,Billy-Heiser,r548
+71,Jacques-Hervet,
+72,Mark-Hilton,e687
+73,Dirk-Hordorff,t742
+74,Goran-Ivanisevic,
+75,Diego-Junqueira,
+76,Craig-Kardon,
+77,Carlos-Kirmayr,
+78,Robbie-Koenig,
+79,Petr-Korda,
+80,Patrik-Kuhnen,
+81,Anastasia-Kukushkina,k926
+82,Ronan-Lafaix,r612
+83,Klaus-Langenbach,
+84,Martin-Laurendeau,
+85,Rick-Leach,
+86,Ronnie-Leitgeb,mo55
+87,Ivan-Lendl,
+88,Jaroslav-Levinsky,
+89,Alexandre-Lisiecki,ma30
+90,Gonzalo-López,
+91,Samuel-Lopez,cd85
+92,Peter-Lucassen,ka98
+93,Miles-Maclagan,
+94,David-Macpherson,b588
+95,Alberto-Mancini,c882
+96,Gustavo-Marcaccio,
+97,Gabriel-Markus,
+98,Frederico-Marques,sh90
+99,Antonio-Martinez Cascales,
+100,Wally-Masur,
+101,Scott-McCain,
+102,Mats-Merkel,
+103,Daniel-Meyers,be67
+104,Andrei-Mlendea,ca99
+105,Mariano-Monachesi,
+106,Patrick-Mouratoglou,
+107,Carlos-Moya,n409
+108,Diego-Moyano,pl56
+109,Michal-Navratil,
+110,Eduardo-Nicolas,
+111,Magnus-Norman,
+112,Colon-Nuñez,q941
+113,Joakim-Nystrom,
+114,Leonardo-Olguin,
+115,Daniel-Orsanic,
+116,Andrei-Pavel,b896
+117,Narcis-Pelach,
+118,Jose-Perlas,l987
+119,Dejan-Petrovic,
+120,Morgan-Phillips,gd08
+121,Claudio-Pistolesi,
+122,Emmanuel-Planque,pf39
+123,Petar-Popovic,
+124,Sebastian-Prieto,g585
+125,Eric-Prodon,
+126,Massimo-Puci,da67
+127,Roger-Rasheed,
+128,Jack-Reader,
+129,Horacio-Rearte,
+130,Burghard-Riehemann,
+131,Guillermo-Rivas,
+132,Patricio-Rodriguez ,
+133,David-Sammel,d763
+134,Davide-Sanguinetti,
+135,Cyril-Saulnier,
+136,Facundo-Savio,c882
+137,Yoav-Schab,
+138,Michiel-Schapers,
+139,Andres-Schneiter,sc73
+140,Oscar-Serrano,
+141,Sanjay-Singh,
+142,Liam-Smith,a829
+143,Boris-Sobkin,d864
+144,Jon-Sorbo,
+145,Louk-Sorensen,
+146,Dennis-Soumilas,
+147,Martin-Stepanek,ba47
+148,Brad-Stine,a678
+149,Jan-Stoces,k540
+150,Mitsuru-Takada,n732
+151,Gustavo-Tavernini,d874
+152,Brian-Teacher,
+153,Michele-Tellini,
+154,Kim-Tiilikainen,
+155,Mikael-Tillstrom,
+156,Miguel-Tobon,
+157,Federico-Torresi ,f586
+158,Gabriel-Trifu,
+159,Danai-Udomchoke,
+160,Lars-Uebel,bc65
+161,Borja-Uribe-Quintana,
+162,Gabriel-Urpi,
+163,Jan-Vacek,c582
+164,Marian-Vajda,
+165,Daniel-Vallverdu,d875
+166,Thierry-Van Cleemput,gb88
+167,Jan-Velthuis,
+168,Dusan-Vemic,
+169,Fernando-Vicente,re44
+170,Juan Albert-Viloca,
+171,Alexander-Volkov,
+172,Kieron-Vorster,
+173,Glenn-Weiner,mp01
+174,Kent-Wood,sd23
+175,Mark-Woodforde,
+176,Yong-il-Yoon,kf17
+177,Francisco-Yunis,
+178,Alexander-Zverev Sr.,z355
+179,Nicolas-Renavand,r613
+180,Ferrero-Juan Carlos,z355
+181,Alexander-Satschko,g967
+182,Jochen-Schlieker,ba79
+183,Stephen-Koon,l575
+184,Antonio-Baldellou-Esteva,i305
+185,Dejan-Cvetkovic,f525
+186,Mardy-Fish,fb98
+187,Stephan-De Kock,k609
+188,Rainer-Schuettler,pd07
+189,Pierre-Bouteyre,e678
+190,Michael-Russell,h940
+191,Toni-Nadal,n409
+192,Cao-Xiao Yin,w571
+193,Mark-Draper,mh30
